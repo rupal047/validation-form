@@ -2,7 +2,14 @@
 
 ## Steps for excecution :
 
- 1. Clone the repo : git clone https://github.com/abhishek305/simple-react-signup-form-with-validation.git
- 2. Open the cloned repo in a code editor 
- 3. Fire up the terminal in the root directory and provide the command npm install
- 4. Then give the command npm start
+1.Start by cloning the repository using the command:
+git clone <repo-url>
+
+2.Open the cloned project folder in your preferred code editor.
+
+3.In the terminal, navigate to the project’s root directory and run:
+npm install
+This will install all the necessary packages.
+
+4.Once the installation is complete, start the development server using:
+npm start
